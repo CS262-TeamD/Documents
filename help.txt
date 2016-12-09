@@ -25,3 +25,18 @@ Imagine you are looking for an employee named Kyle Campbell.
 	3. Kyle Campbell's information will appear.
 	4. Click the "X" in the top right corner to return to the list of all employees.
 	5. Click the triangle button in the lower left corner to exit the search page.
+
+
+================================================================================================
+
+
+Comments Feature
+You can use the comments feature on the Cleaning Crew App to exchange textual comments between cleaning crew managers and employees.
+Imagine you are a cleaning crew employee and you wish to send a comment to your cleaning crew manager that asks the manager where the toilet paper is. Or, imagine you are a cleaning crew manager and you wish to send a comment to your cleaning crew employee that asks the employee if the bathrooms had been cleaned yet. The following instructions will tell you how to leave comments from the main housekeeping log on the homepage of the Cleaning Crew App.
+
+Whether you are an employee or a manager:
+	1. On the housekeeping log, use your finger to scroll down until you see an empty text box.
+	2. Click on the text box to bring up the cursor.
+	3. Use the keypad to write a comment of your choice.
+	4. Click the button that says "submit".
+	5. The comment will appear for cleaning crew employees and managers to see.
