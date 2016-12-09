@@ -4,12 +4,12 @@ One of the most important uses of the Cleaning Crew App is
 the ability for you to see your cleaning assignments in a
 to-do checklist form.
 
-1a. Log into the app.
----------OR---------
-1b. If you are already logged in, use the menu by pressing the triple dot icon in the top right corner of the app and select "Main".
-2. You are now on the main housekeeping log screen. Here, you can see each room you are assigned to and the tasks that you must accomplish in each room. Beneath these tasks, there may be a short comment from your supervisor regarding that room, so be sure to read it.
-3. As you complete your tasks throughout the day, check the box corresponding to the completed task.
-4. Both you and your supervisors will be able to see which tasks you have completed and when they were completed.
+	1a. Log into the app.
+	---------OR---------
+	1b. If you are already logged in, use the menu by pressing the triple dot icon in the top right corner of the app and select "Main".
+	2. You are now on the main housekeeping log screen. Here, you can see each room you are assigned to and the tasks that you must accomplish in each room. Beneath these tasks, there may be a short comment from your supervisor regarding that room, so be sure to read it.
+	3. As you complete your tasks throughout the day, check the box corresponding to the completed task.
+	4. Both you and your supervisors will be able to see which tasks you have completed and when they were completed.
    
    
 ================================================================================================   
