@@ -40,3 +40,17 @@ Whether you are an employee or a manager:
 	3. Use the keypad to write a comment of your choice.
 	4. Click the button that says "submit".
 	5. The comment will appear for cleaning crew employees and managers to see.
+
+
+================================================================================================
+
+
+Submitting work
+
+1. Finished work is entered on the "Main" page.
+    The "Main" page is navigated to by logging in or by selecting "Main"
+    from the drop down menu found in the top right hand corner of the app.
+2. Checking a box on the "Main" page automatically submits that work item.
+   Your supervisor will then be able to see the task as completed.
+    Each work item can be individually checked or pressing the "Check All"
+    box will check each work item in a certain room.
