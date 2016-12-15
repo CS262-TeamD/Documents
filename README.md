@@ -13,7 +13,5 @@ In addition to what the app does, there are also some limitations and requiremen
 - Several users should be able to use the app at the same time. 
 - Communicating with the server shouldn't take more than 5 seconds.
 
-# Where We Are & Where We're Headed
-Our current prototype (at the end of Sprint 5) implements a login screen, which proceeds to the checklist landing page, and the ability to attach comments to rooms. There is a checklist organized by room subheading. The menu on top can navigate to a search tab, allowing the user to search other employees. It also includes an About page with an unrevised version of our vision statement and our team members' names. A separate page is loaded if a user logs in with supervisor credentials. This screen allows the users to delegate cleaning tasks to employees. Our app has also been linked to our database, rather than displaying hard-coded values.
-
-As far as next steps go, we plan on implementing the issues that arose during user testing. Our test users made several suggestions, some of which we will implement. Most generally, that includes updating the UI to be even more straightforward and easy to use. The interaction with the database will also need to become more robust, with some of the bugs worked out.
+# Where We Ended Up
+Our current prototype (at the end of the semester) implements a login screen, which proceeds to the checklist landing page, and the ability to attach comments to rooms. There is a checklist organized by room subheading. The menu on top can navigate to a search tab, allowing the user to search other employees. It also includes an About page with a version of our vision statement and our team members' names. A separate page is loaded if a user logs in with supervisor credentials. This screen allows the users to delegate cleaning tasks to employees and add comments. Our app has also been linked to our database, rather than displaying hard-coded values.
